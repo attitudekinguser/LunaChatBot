@@ -1,9 +1,9 @@
-# LunaChatBot
+# CutieChatBot
 Just another Telegram AI chat bot written in Python using Pyrogram.
 
-A public running instance can be found on telegram as [@LunaChatBot](https://t.me/LunaChatBot).
+A public running instance can be found on telegram as [Sweet Cutie](https://t.me/sweet_Cutie_robot).
 
-<img src="https://hamker.me/knplfa4_luna.jpg" width="200" align="right">
+<img src="https://te.legra.ph/file/6a6accf5c01da05ccedb0.jpg" width="200" align="right">
 
 ## Requirements
 
